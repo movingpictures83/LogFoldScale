@@ -1,0 +1,2 @@
+Prefix plugins/LogFoldScale/example/
+Plugin LogFoldScale inputfile high-vs-low_metastatic_lines_GSE59857.txt outputfile high-vs-low_metastatic_lines_GSE59857_logFC_refseq.txt
